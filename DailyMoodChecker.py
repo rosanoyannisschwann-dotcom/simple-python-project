@@ -1,3 +1,4 @@
+#DailyMoodChecker
 # Greeting Mood Program
 # This program asks for the user's name and mood
 # then prints a friendly greeting message
@@ -15,5 +16,6 @@ else:
     print("Hi", name + "!")
     print("It's okay to feel sad sometimes.")
     print("Keep going and have a better day ahead 💙")
+
 
 print("\nThank you for using the program!")
